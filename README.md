@@ -30,6 +30,7 @@ npx skills add fernandoserra/skills/skills/fs-mobile-scaffold
 | [`fs-mobile-state-management-ux`](skills/fs-mobile-state-management-ux) | Audita si las pantallas de una app Expo/React Native cubren los 8 estados de una operación async (loading, empty, success, error, offline, unauthorized, expired, permission_denied), no solo loading → success. Reporta como matriz pantalla × estado. |
 | [`fs-mobile-storage`](skills/fs-mobile-storage) | Audita decisiones de storage local en una app Expo/React Native: elección de tecnología (AsyncStorage/SecureStore/SQLite/MMKV), consistencia de acceso, serialización, expiración de cache y limpieza al logout. |
 | [`fs-mobile-ui-ux`](skills/fs-mobile-ui-ux) | Audita la UI/UX de una app Expo/React Native: jerarquía visual, espaciado, áreas táctiles, navegación, estados vacíos/loading/error, feedback visual, consistencia, tipografía, accesibilidad visual y formularios. |
+| [`fs-web-opengraph`](skills/fs-web-opengraph) | Audita los meta tags Open Graph, Twitter Card y SEO básico de una o más URLs vía la API de opengraph.to (score, issues, HTML sugerido) y opcionalmente aplica el fix detectando el framework del proyecto (Next.js, Nuxt, Remix, Astro, HTML estático). |
 | [`fs-web-security`](skills/fs-web-security) | Audita una app web contra el OWASP WSTG mediante revisión estática de código/config y checks pasivos no destructivos: headers de seguridad, auth, sesión, autorización, input validation, criptografía y más. |
 
 ## Estructura
